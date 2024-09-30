@@ -1,4 +1,4 @@
-module iurisevero/ddd-go
+module iurisevero/tavern
 
 go 1.23.1
 
